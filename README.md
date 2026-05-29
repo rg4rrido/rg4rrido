@@ -32,6 +32,7 @@ Técnico en **ASIR** y entusiasta del **Hacking Ético**. Combino la administrac
 <img src="https://img.shields.io/badge/CTFs-HackTheBox%2FTryHackMe-orange?style=flat-square" />
 
 </div>
+
 --- 
 
 ### 🚀 Proyectos Personales: Infraestructura y HomeLab
